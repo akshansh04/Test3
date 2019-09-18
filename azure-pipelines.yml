@@ -2,7 +2,7 @@ resources:
  pipelines:
    - pipeline: P1
      source: akshansh04.Test2-1
-#  Random
+
 
 stages:
  - stage: ProduceArtifact
