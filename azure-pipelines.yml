@@ -3,7 +3,6 @@ resources:
    - pipeline: P1
      source: akshansh04.Test2-1
 
-asdasdsd
 stages:
  - stage: ProduceArtifact
    jobs:
