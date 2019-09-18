@@ -3,9 +3,6 @@ resources:
    - pipeline: P1
      source: akshansh04.Test2-1
 
-trigger:
-- master
-
 stages:
  - stage: ProduceArtifact
    jobs:
